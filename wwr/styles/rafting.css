@@ -82,7 +82,7 @@ header nav a {
     padding: 12px;
     text-align: center;
     color: white;
-    background-color: rgba(2, 183, 255, 0.75);
+    background-color: rgba(38, 70, 83, 0.90);
     font-family: var(--heading-font);
     font-size: 26px;
 }
@@ -95,7 +95,7 @@ header nav a {
     width: 100%;
     min-height: 100px;
     padding: 18px;
-    background-color: rgba(2, 183, 255, 0.80);
+    background-color: rgba(38, 70, 83, 0.90);
     color: white;
     margin: 0;
 }
@@ -127,7 +127,7 @@ section {
 section h2 {
     padding: 10px;
     text-align: center;
-    color: white;
+    color: var(--accent1-color);
     background-color: var(--accent2-color);
     font-family: var(--heading-font);
     font-size: 20px;
